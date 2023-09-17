@@ -12,8 +12,8 @@
     "story",
     "app"
   ],
-  "author": "Muhamad Luthfi Farid  Sidik",
-  "license": "ISC",
+  "author": "Muhamad Luthfi Farid  Sidik <m.luthfifarid@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.20.2",
     "@babel/preset-env": "7.20.2",
